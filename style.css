@@ -1,0 +1,50 @@
+.heading {
+    width: 100%;
+    top: 0;
+    margin-top: 0;
+    font-size: 33px;
+    box-shadow: 5px 5px 5px grey;
+    padding: 15px;
+}
+
+.heading2 {
+    background-color: white;
+    color: #0069D9;
+    font-size: 25px;
+    border-radius: 20px;
+    float: none;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.heading3 {
+    font-size: 18px;
+}
+
+hr {
+    background-color: white;
+}
+
+.result {
+    font-size: 18px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    width: 100%;
+    line-height: 2.5;
+    bottom: 0;
+    font-size: 17px;
+}
+
+canvas {
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#text {
+    white-space: pre-wrap;
+}
